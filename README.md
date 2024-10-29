@@ -15,8 +15,8 @@
 - **Fast Development**: C#
 
 ### 3. C# Environment Setup
-- **Step 1**: Install Rider IDE from [here](https://www.jetbrains.com/rider/).
-- **Step 2**: That's it!
+> - **Step 1**: Install Rider IDE from [here](https://www.jetbrains.com/rider/).
+> - **Step 2**: That's it! You are ready to go.
 
 > [!IMPORTANT]
 > This Application is developed using Rider IDE. 
