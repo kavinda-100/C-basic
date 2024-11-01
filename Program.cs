@@ -41,6 +41,10 @@ namespace Program
             // for exception handling -----------------------------------------------------------------------
             ExceptionHandling.ExceptionHandling exceptionHandling = new ExceptionHandling.ExceptionHandling();
             // exceptionHandling.Run();
+            
+            // for delegates -----------------------------------------------------------------------
+            Delegates.DelegatesExamples delegatesExamples = new Delegates.DelegatesExamples();
+            // delegatesExamples.Run();
         }
     }
 }
