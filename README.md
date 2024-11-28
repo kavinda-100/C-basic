@@ -1,4 +1,4 @@
-﻿## C# Basic
+﻿## C# Basic to Intermediate Concepts
 
 ### 1. C#
 - C# is a general-purpose, multi-paradigm programming language developed by Microsoft that runs on the .NET framework. C# is widely used for building mobile applications, games, and enterprise software like WebAPI.
@@ -43,5 +43,6 @@
 - Arrays
 - Functions
 - Exception Handling
+- Delegates
 
-### 5. For the OOPs concepts, please refer to the following repository: [Click]()
+### 5. For the OOPs concepts, please refer to the following repository: [Click](https://github.com/kavinda-100/C--Advance)

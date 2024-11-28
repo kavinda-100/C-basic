@@ -1,6 +1,8 @@
 ﻿using System;
 using Program.controllFlow;
+using Program.Date_and_time;
 using Program.Functions;
+using Program.List_and_ArrayList;
 
 namespace Program
 {
@@ -45,6 +47,15 @@ namespace Program
             // for delegates -----------------------------------------------------------------------
             Delegates.DelegatesExamples delegatesExamples = new Delegates.DelegatesExamples();
             // delegatesExamples.Run();
+            
+            // for Lists -----------------------------------------------------------------------
+            // ListExample.Run();
+            
+            // for ArrayLists -----------------------------------------------------------------------
+            // ArrayListExamples.Run();
+            
+            // for Date and Time -----------------------------------------------------------------------
+            DateAndTime.Run();
         }
     }
 }

@@ -1,14 +1,13 @@
-﻿namespace Program.List_and_ArrayList;
+﻿using System.Collections;
 
-public class ListExample
+namespace Program.List_and_ArrayList;
+
+public class ArrayListExamples
 {
-    // List is a generic type, so we need to specify the type of the elements
     public static void Run()
     {
-        List<int> numbers = new List<int>();
+        ArrayList numbers = new ArrayList();
         
-        //all the methods of the List class are available in the ListExample class
-
         // Add elements to the list
         numbers.Add(1);
         numbers.Add(2);
@@ -58,20 +57,5 @@ public class ListExample
         
         // Reverse the list
         numbers.Reverse();
-        
-        // Copy the list to an array
-        int[] array = numbers.ToArray();
-        
-        // Length of the array
-        int length = array.Length;
-
-        // Iterate over the list
-        foreach (int number in numbers)
-        {
-            Console.WriteLine(number);
-        }
-        
-        // Remove all elements from the list
-        numbers.Clear();
     }
 }
